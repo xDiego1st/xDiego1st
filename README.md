@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./github-banner-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="./github-banner-light.png" />
-    <img width="100%" alt="Rasyid Abdul Halim — Full-Stack Web & Mobile Developer | GIS & Automation" src="./github-banner-light.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="./github-banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./github-banner-light.svg" />
+    <img width="100%" alt="Rasyid Abdul Halim — Full-Stack Web & Mobile Developer | GIS & Automation" src="./github-banner-light.svg" />
   </picture>
 </div>
 
@@ -207,8 +207,8 @@ Hi, I'm **Rasyid Abdul Halim** (`@xDiego1st`) — a **Full-Stack Web & Mobile De
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e293b,100:0d1117&height=110&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:e0f2fe,100:f1f5f9&height=110&section=footer" />
-    <img width="100%" alt="Footer Wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:e0f2fe,100:f1f5f9&height=110&section=footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="./github-footer-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./github-footer-light.svg" />
+    <img width="100%" alt="Coffee & Code — Rasyid Abdul Halim" src="./github-footer-light.svg" />
   </picture>
 </div>

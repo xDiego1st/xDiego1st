@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:3b82f6&height=210&section=header&text=Rasyid%20Abdul%20Halim&fontSize=44&fontColor=e2e8f0&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer%20%7C%20GIS%20%26%20Automation&descSize=17&descAlignY=58&descColor=7dd3fc&animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f1f5f9,50:e0f2fe,100:93c5fd&height=210&section=header&text=Rasyid%20Abdul%20Halim&fontSize=44&fontColor=0f172a&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer%20%7C%20GIS%20%26%20Automation&descSize=17&descAlignY=58&descColor=1d4ed8&animation=fadeIn" />
-    <img width="100%" alt="Rasyid Abdul Halim Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:f1f5f9,50:e0f2fe,100:93c5fd&height=210&section=header&text=Rasyid%20Abdul%20Halim&fontSize=44&fontColor=0f172a&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer%20%7C%20GIS%20%26%20Automation&descSize=17&descAlignY=58&descColor=1d4ed8&animation=fadeIn" />
+    <source media="(prefers-color-scheme: dark)" srcset="./github-banner-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./github-banner-light.png" />
+    <img width="100%" alt="Rasyid Abdul Halim — Full-Stack Web & Mobile Developer | GIS & Automation" src="./github-banner-light.png" />
   </picture>
 </div>
 
